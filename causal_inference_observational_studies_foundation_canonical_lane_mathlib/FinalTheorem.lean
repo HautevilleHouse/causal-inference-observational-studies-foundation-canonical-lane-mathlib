@@ -1,0 +1,9 @@
+import causal_inference_observational_studies_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace causal_inference_observational_studies_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end causal_inference_observational_studies_foundation_canonical_lane_mathlib
+end HautevilleHouse
